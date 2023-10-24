@@ -1,0 +1,1 @@
+SELECT avg(`col_int_key_signed`) FROM order_by_test.table_245215_undef_undef group by `col_varchar(20)_key_signed`;  

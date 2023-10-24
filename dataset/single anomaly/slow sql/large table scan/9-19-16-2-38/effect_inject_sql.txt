@@ -1,0 +1,1 @@
+select * from order_by_test.table_400000_undef_undef limit 10000;

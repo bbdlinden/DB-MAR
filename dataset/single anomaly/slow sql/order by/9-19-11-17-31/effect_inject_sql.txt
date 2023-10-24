@@ -1,0 +1,1 @@
+SELECT `col_year_key_signed` FROM order_by_test.table_400000_undef_undef order by `col_int_key_signed` limit 200000; 

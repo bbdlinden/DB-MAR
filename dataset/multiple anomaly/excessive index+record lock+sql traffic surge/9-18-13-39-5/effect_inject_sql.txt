@@ -1,0 +1,1 @@
+Update order_by_test.table_300000_undef_undef set col_smallint_key_signed = col_smallint_key_signed - 1 where col_smallint_key_signed > 6377;

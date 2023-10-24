@@ -1,0 +1,1 @@
+SELECT `col_date_key_signed` FROM order_by_test.table_433323_undef_undef order by `col_bool_key_signed` limit 200000; 

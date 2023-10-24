@@ -1,0 +1,1 @@
+SELECT count(*) FROM table_400000_undef_undef order_by_test.t1, table_400000_undef_undef order_by_test.t2 where t1. `col_decimal(40, 20)_key_signed` = t2. `col_decimal(40, 20)_key_signed` limit 300000; 

@@ -1,0 +1,1 @@
+SELECT max(`col_bigint_key_signed`) FROM order_by_test.table_400000_undef_undef group by `col_double_key_signed`;  

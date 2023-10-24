@@ -1,0 +1,1 @@
+SELECT `col_decimal(40, 20)_key_signed` order_by_test.FROM table_367339_undef_undef order by `col_year_key_signed` limit 200000; 

@@ -1,0 +1,1 @@
+Lock TABLES new_orders WRITE;

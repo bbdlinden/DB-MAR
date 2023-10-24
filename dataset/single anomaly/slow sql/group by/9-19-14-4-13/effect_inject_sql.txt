@@ -1,0 +1,1 @@
+SELECT max(`col_smallint_key_signed`) FROM order_by_test.table_400000_undef_undef group by `col_datetime_key_signed`;  

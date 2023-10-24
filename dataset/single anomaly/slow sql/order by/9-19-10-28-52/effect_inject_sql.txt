@@ -1,0 +1,1 @@
+SELECT `col_float_key_signed` FROM order_by_test.table_245215_undef_undef order by `col_char(20)_key_signed` limit 200000; 

@@ -1,0 +1,1 @@
+Update order_line set ol_number = ol_number + 0 where ol_number > 12;

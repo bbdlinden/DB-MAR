@@ -1,0 +1,1 @@
+Update new_orders set no_d_id = no_d_id + 0 where no_d_id > 8;

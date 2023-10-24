@@ -1,0 +1,1 @@
+ALTER TABLE orders ADD meta_data char(2);

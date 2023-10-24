@@ -1,0 +1,1 @@
+SELECT sum(`col_int_key_signed`) FROM order_by_test.table_200000_undef_undef group by `col_bit(64)_key_signed`;  

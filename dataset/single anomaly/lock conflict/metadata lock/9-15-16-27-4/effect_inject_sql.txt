@@ -1,0 +1,1 @@
+ALTER TABLE warehouse ADD meta_data char(2);

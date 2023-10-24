@@ -1,0 +1,1 @@
+ALTER TABLE item ADD meta_data char(2);

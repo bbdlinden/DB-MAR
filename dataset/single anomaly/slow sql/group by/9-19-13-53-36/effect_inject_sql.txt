@@ -1,0 +1,1 @@
+SELECT min(`col_tinyint_key_signed`) FROM order_by_test.table_200000_undef_undef group by `col_float_key_signed`;  
