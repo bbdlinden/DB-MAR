@@ -1,0 +1,1 @@
+/root/ChaosBlade/chaosblade-0.3.0/blade create disk burn --write --path /home

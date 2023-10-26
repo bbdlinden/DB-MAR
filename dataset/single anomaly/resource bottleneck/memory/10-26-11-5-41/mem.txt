@@ -1,0 +1,1 @@
+/root/ChaosBlade/chaosblade-0.3.0/blade c mem load --mem-percent 95
