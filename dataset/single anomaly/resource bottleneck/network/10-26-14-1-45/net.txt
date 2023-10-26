@@ -1,0 +1,1 @@
+/root/ChaosBlade/chaosblade-0.3.0/blade create network loss --percent 100 --interface eth0 --local-port 3306
