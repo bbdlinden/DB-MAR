@@ -1,0 +1,1 @@
+select * from implicit_join_without_index_table,history where implicit_join_without_index_table.h_c_id = history.h_c_id limit 20000;
