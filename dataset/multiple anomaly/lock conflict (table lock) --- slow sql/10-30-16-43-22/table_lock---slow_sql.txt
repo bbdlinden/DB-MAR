@@ -1,0 +1,2 @@
+Lock TABLES new_orders WRITE;
+select count(*) from new_orders where no_d_id = 1;

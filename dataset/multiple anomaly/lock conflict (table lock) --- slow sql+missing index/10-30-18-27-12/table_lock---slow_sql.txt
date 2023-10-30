@@ -1,0 +1,2 @@
+Lock TABLES stock WRITE;
+select count(*) from stock where s_w_id = 1;

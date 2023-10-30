@@ -1,0 +1,2 @@
+Lock TABLES item WRITE;
+select count(*) from item where i_id = 1;

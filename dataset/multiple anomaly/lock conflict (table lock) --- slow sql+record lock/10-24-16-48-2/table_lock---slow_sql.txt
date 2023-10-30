@@ -1,0 +1,2 @@
+Lock TABLES history WRITE;
+select count(*) from history where h_c_d_id = 1;

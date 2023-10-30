@@ -1,0 +1,2 @@
+Lock TABLES orders WRITE;
+select count(*) from orders where o_d_id = 1;

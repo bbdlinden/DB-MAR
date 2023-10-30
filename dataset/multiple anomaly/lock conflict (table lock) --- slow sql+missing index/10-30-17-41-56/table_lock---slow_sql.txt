@@ -1,0 +1,2 @@
+Lock TABLES order_line WRITE;
+select count(*) from order_line where ol_d_id = 1;

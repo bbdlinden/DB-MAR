@@ -1,0 +1,2 @@
+Lock TABLES customer WRITE;
+select count(*) from customer where c_d_id = 1;

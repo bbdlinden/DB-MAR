@@ -1,0 +1,2 @@
+Lock TABLES warehouse WRITE;
+select count(*) from warehouse where w_id = 1;

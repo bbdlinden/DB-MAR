@@ -1,0 +1,2 @@
+Lock TABLES district WRITE;
+select count(*) from district where d_id = 1;
