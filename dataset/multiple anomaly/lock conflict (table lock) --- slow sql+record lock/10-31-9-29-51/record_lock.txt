@@ -1,0 +1,1 @@
+Update new_orders set no_w_id = no_w_id + 0 where no_w_id > 80;

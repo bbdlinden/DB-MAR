@@ -1,0 +1,1 @@
+mysqldump -u root -p'Meituan312' tpcc10_test orders > test.sql

@@ -1,0 +1,1 @@
+Update stock set s_order_cnt = s_order_cnt + 0 where s_order_cnt > 91;

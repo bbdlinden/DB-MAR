@@ -1,0 +1,1 @@
+Update customer set c_d_id = c_d_id + 0 where c_d_id > 8;

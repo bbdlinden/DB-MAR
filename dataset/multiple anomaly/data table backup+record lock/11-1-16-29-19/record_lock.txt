@@ -1,0 +1,1 @@
+Update district set d_id = d_id + 0 where d_id > 8;
